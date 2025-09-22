@@ -1,0 +1,15 @@
+{
+  "title": "是鞍山，不是洛杉矶（一）",
+  "subtitle": "JSON 动态加载示例 · 段落附带播放按钮",
+  "coverAudio": "data:audio/mp3;base64,//uQZAAAAAAAAAAAAAAAAAAAAAAAWGluZwAAAA8AAAACAAACcQCA...",
+  "paragraphs": [
+    {
+      "html": "当年台湾中学<span class=\"vocab\">地理<span class=\"tooltip\">dì lǐ — geography</span></span>课都像历史课，大陆地理内容都停留在1949年……",
+      "audio": "data:audio/mp3;base64,//uQZAAAAAAAAAAAAAAAAAAAAAAAWGluZwAAAA8AAAACAAACcQCA..."
+    },
+    {
+      "html": "2006年的电影《姨妈的后现代生活》里，斯琴高娃<span class=\"vocab\">扮演<span class=\"tooltip\">bàn yǎn</span></span>的叶如棠……",
+      "audio": "data:audio/mp3;base64,//uQZAAAAAAAAAAAAAAAAAAAAAAAWGluZwAAAA8AAAACAAACcQCA..."
+    }
+  ]
+}
